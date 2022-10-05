@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversor de Moeda</string>
+    <string name="qual_o_valor_em_real">Qual é o valor em Real ?</string>
+    <string name="_0_00">0,00</string>
+    <string name="valor_convertido_em_dolar">Valor convertido em Dólar:</string>
+    <string name="valor_convertido_em_euro">Valor convertido em Euro:</string>
+    <string name="converter">Converter</string>
+    <string name="limpar">Limpar</string>
+    <string name="informe_valor">Informe um valor.</string>
+    <string name="zero">0,00</string>
+</resources>
